@@ -1,6 +1,6 @@
 {
-  "name": "frontend-developer-canonicals-mesto-step0-template",
-  "version": "1.0.0",
+  "name": "mesto-project",
+  "version": "0.0.1",
   "description": "студент, когорта, стэк",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Christina2710/frontend-developer-canonicals-mesto-step0-template.git"
+    "url": "git+https://github.com/Ashotto/mesto-project.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Karim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Christina2710/frontend-developer-canonicals-mesto-step0-template/issues"
+    "url": "https://github.com/Ashotto/mesto-project/issues"
   },
-  "homepage": "https://github.com/Christina2710/frontend-developer-canonicals-mesto-step0-template#readme",
+  "homepage": "https://github.com/Ashotto/mesto-project#readme",
   "devDependencies": {
     "@babel/core": "^7.27.1",
     "@babel/preset-env": "^7.27.2",
@@ -32,7 +32,7 @@
     "html-webpack-plugin": "^5.6.3",
     "mini-css-extract-plugin": "^2.9.2",
     "postcss-loader": "^8.1.1",
-    "webpack": "^5.99.8",
+    "webpack": "^5.99.9",
     "webpack-cli": "^6.0.1",
     "webpack-dev-server": "^5.2.1"
   },
